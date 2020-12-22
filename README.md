@@ -26,9 +26,9 @@ The columns I used to build my model are
 
 ### EDA:
 
-![](Visualizations/baseball_top_words.png)
-![](Visualizations/basketball_top_words.png)
-![](Visualizations/top_words.png)
+![](baseball_top_words.png)
+![](basketball_top_words.png)
+![](top_words.png)
 
 
 ### Data Preprocessing:
@@ -48,13 +48,13 @@ The columns I used to build my model are
 
 - Logistic Regression Accuracy Scores:
 - Train: 0.906  Test: 0.858
-- Confusion Matrix: ![](Visualizations/lr_confusion_matrix.png)
+- Confusion Matrix: ![](lr_confusion_matrix.png)
 - Specificity: 0.78  Sensitivity: 0.936
 
 
 - Random Forest Accuracy Scores:
 - Train: 0.998  Test: 0.904
-- Confusion Matrix: ![](Visualizations/rf_confusion_matrix.png)
+- Confusion Matrix: ![](rf_confusion_matrix.png)
 - Specificity: 0.884  Sensitivity: 0.924
 
 
